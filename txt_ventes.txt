@@ -1,0 +1,6 @@
+Produit, Ventes
+Bouzmagic, 432
+Plouzmagic Plus Plus, 43211
+Bouzmagic Plus, 800
+Plouzmagic Plus, 809
+Plouzmagic, 4000

@@ -1,0 +1,6 @@
+Produit, Prix
+Bouzmagic, 2.44
+Plouzmagic Plus Plus, 1.99
+Bouzmagic Plus, 19.00
+Plouzmagic Plus, 22.00
+Plouzmagic, 12.59
