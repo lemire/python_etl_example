@@ -14,9 +14,18 @@ def load_file(filename, folder_path='.'):
 
 # Vérifier si les fichiers existent dans le dossier courant
 folder_path = '.'
+# Chargement des fichiers avec noms de colonnes explicites
 prices = load_file('txt_prix.txt', folder_path)
 sales = load_file('txt_ventes.txt', folder_path)
 categories = load_file('txt_nom.txt', folder_path)
+
+# Renommer les colonnes si besoin
+if prices is not None and prices.shape[1] == 2:
+    prices.columns = ['Produit', 'Prix']
+if sales is not None and sales.shape[1] == 2:
+    sales.columns = ['Produit', 'Ventes']
+if categories is not None and categories.shape[1] == 2:
+    categories.columns = ['Produit', 'Categorie']
 
 # Si un fichier est manquant, demander un nouveau chemin à l'utilisateur
 if any(df is None for df in [prices, sales, categories]):

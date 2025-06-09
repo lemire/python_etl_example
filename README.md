@@ -62,6 +62,15 @@ Lorsque vous avez terminé, vous pouvez désactiver l'environnement virtuel avec
 deactivate
 ```
 
+## Obtention des fichiers du projet
+
+Pour obtenir les fichiers du projet, vous pouvez télécharger une archive ZIP depuis GitHub :
+
+1. Rendez-vous sur la page du projet : https://github.com/lemire/python_etl_example
+2. Cliquez sur le bouton vert « Code » puis sur « Download ZIP ».
+3. Décompressez l’archive téléchargée sur votre ordinateur.
+4. Ouvrez le dossier extrait dans votre terminal ou explorateur de fichiers pour suivre les instructions d’installation ci-dessus.
+
 ## Utilisation
 
 Placez-vous dans le dossier où se trouvent les fichiers `txt_nom.txt`, `txt_prix.txt`, `txt_ventes.txt` puis tapez :
@@ -148,6 +157,15 @@ Lorsque vous avez terminé, vous pouvez désactiver l'environnement virtuel avec
 ```
 deactivate
 ```
+
+## Obtention des fichiers du projet
+
+Pour obtenir les fichiers du projet, vous pouvez télécharger une archive ZIP depuis GitHub :
+
+1. Rendez-vous sur la page du projet : https://github.com/lemire/python_etl_example
+2. Cliquez sur le bouton vert « Code » puis sur « Download ZIP ».
+3. Décompressez l’archive téléchargée sur votre ordinateur.
+4. Ouvrez le dossier extrait dans votre terminal ou explorateur de fichiers pour suivre les instructions d’installation ci-dessus.
 
 ## Utilisation
 
